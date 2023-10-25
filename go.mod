@@ -46,8 +46,8 @@ require (
 	github.com/gocarina/gocsv v0.0.0-20200925213129-04be9ee2e1a2
 	github.com/gogs/chardet v0.0.0-20191104214054-4b6791f73a28
 	github.com/golang-collections/go-datastructures v0.0.0-20150211160725-59788d5eb259
-	github.com/golang/protobuf v1.4.2
-	github.com/golang/snappy v0.0.2
+	github.com/golang/protobuf v1.5.3
+	github.com/golang/snappy v0.0.4
 	github.com/google/codesearch v1.2.0
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
@@ -70,14 +70,13 @@ require (
 	github.com/kiteco/kiteco/kite-go/client/datadeps v0.0.0-00010101000000-000000000000
 	github.com/kiteco/tensorflow v0.0.0-20201124180144-caad55e15f15
 	github.com/kiteco/websocket v1.8.7-0.20200610174823-316085a5aeb4
-	github.com/klauspost/compress v1.11.3 // indirect
 	github.com/klauspost/cpuid v1.3.1
-	github.com/kr/pretty v0.2.1
+	github.com/kr/pretty v0.3.0
 	github.com/krolaw/xsd v0.0.0-20190108013600-03ca754cf4c5
 	github.com/lib/pq v1.8.0
 	github.com/lxn/win v0.0.0-20201021184640-9c48443b1f44
 	github.com/lytics/slackhook v0.0.0-20160630154540-a52fd449b27d
-	github.com/mattn/go-sqlite3 v1.14.4
+	github.com/mattn/go-sqlite3 v1.14.14
 	github.com/mattn/go-zglob v0.0.3
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/minio/highwayhash v1.0.1
@@ -103,10 +102,10 @@ require (
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e
-	github.com/spf13/afero v1.4.1
+	github.com/spf13/afero v1.9.2
 	github.com/spf13/cobra v1.1.1
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.3
 	github.com/stripe/stripe-go/v72 v72.37.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/texttheater/golang-levenshtein/levenshtein v0.0.0-20200805054039-cae8b0eaed6c
@@ -120,20 +119,19 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/xtgo/uuid v0.0.0-20140804021211-a0b114877d4c
-	github.com/yl2chen/cidranger v1.0.2
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0
-	golang.org/x/crypto v0.0.0-20201124201722-c8d3bf9c5392
-	golang.org/x/net v0.0.0-20201201195509-5d6afe98e0b7
-	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/sys v0.0.0-20201201145000-ef89a241ccb3
-	golang.org/x/text v0.3.3
-	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
-	golang.org/x/tools v0.0.0-20201022035929-9cf592e881e9
-	gonum.org/v1/plot v0.8.0
-	google.golang.org/grpc v1.33.1
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/net v0.9.0
+	golang.org/x/oauth2 v0.7.0
+	golang.org/x/sys v0.7.0
+	golang.org/x/text v0.9.0
+	golang.org/x/time v0.3.0
+	golang.org/x/tools v0.7.0
+	gonum.org/v1/plot v0.10.1
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/gorp.v1 v1.7.2
 	gopkg.in/segmentio/analytics-go.v3 v3.1.0
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
