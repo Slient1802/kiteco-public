@@ -14,7 +14,7 @@
     "fuse.js": "^3.0.5",
     "history": "^4.6.3",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mixpanel-browser": "^2.34.0",
     "object-assign": "4.1.1",
     "prismjs": "^1.6.0",
